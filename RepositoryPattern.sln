@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPattern.DataAbstractionLayer", "RepositoryPattern.DataAbstractionLayer\RepositoryPattern.DataAbstractionLayer.csproj", "{78063228-A101-4594-980B-EE6CFF09254B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPattern.Core", "RepositoryPattern.Core\RepositoryPattern.Core.csproj", "{94C95587-0A3F-42F4-A92E-FBB9FBF7837A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPattern.DataAbstractionLayer.Tests", "RepositoryPattern.DataAbstractionLayer.Tests\RepositoryPattern.DataAbstractionLayer.Tests.csproj", "{2C907CA2-6D72-4229-B640-5D926DDF23F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78063228-A101-4594-980B-EE6CFF09254B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78063228-A101-4594-980B-EE6CFF09254B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78063228-A101-4594-980B-EE6CFF09254B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78063228-A101-4594-980B-EE6CFF09254B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C95587-0A3F-42F4-A92E-FBB9FBF7837A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C95587-0A3F-42F4-A92E-FBB9FBF7837A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C95587-0A3F-42F4-A92E-FBB9FBF7837A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C95587-0A3F-42F4-A92E-FBB9FBF7837A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C907CA2-6D72-4229-B640-5D926DDF23F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C907CA2-6D72-4229-B640-5D926DDF23F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C907CA2-6D72-4229-B640-5D926DDF23F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C907CA2-6D72-4229-B640-5D926DDF23F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
