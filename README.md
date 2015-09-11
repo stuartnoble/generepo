@@ -1,2 +1,2 @@
-# generepo (gen-air-repo)
+# generepo
 A generic repository/service pattern implementation
